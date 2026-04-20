@@ -40,6 +40,6 @@ Alternative deletion request
 
 If you are unable to access the app, you can request account deletion by contacting:
 
-📧 devops@meritadvisory.so
+devops@meritadvisory.so
 
 All requests are processed within 3 business days.
